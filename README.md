@@ -7,7 +7,7 @@
 ### React-Native To-do Application
 How It works:
 
-![Video](images/ss-recode.MP4)
+![Product Video](images/ss-recode.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
