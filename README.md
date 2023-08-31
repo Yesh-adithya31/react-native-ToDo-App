@@ -7,7 +7,7 @@
 ### React-Native To-do Application
 How It works:
 
-[![product-ss-recode]][product-ss-recode]
+![Video](images/ss-recode.MP4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,4 +73,3 @@ _This is the step you have to follow._
 
 [react-document]: https://facebook.github.io/react-native/
 [React Native]: https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white
-[product-ss-recode]: images/ss-recode.MP4
