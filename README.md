@@ -38,10 +38,10 @@ Install Expo CLI:
   ```
 
 Verify Installation:
-    After the installation is complete, you can verify it by checking the installed version:
-    ```sh
-    expo --version
-    ````
+- After the installation is complete, you can verify it by checking the installed version:
+  ```sh
+  expo --version
+  ````
 
 ### Installation
 
